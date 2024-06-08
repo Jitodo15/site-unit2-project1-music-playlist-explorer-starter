@@ -73,6 +73,7 @@ The demo went well, but I noticed somethings I could have done better and I have
 ### Open-source libraries used
 
 - Add any links to open-source libraries used in your project.
+  `https://www.w3schools.com/icons/fontawesome_icons_intro.asp`
 
 ### Shout out
 
